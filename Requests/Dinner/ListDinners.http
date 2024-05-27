@@ -1,0 +1,4 @@
+@host = https://localhost:7255
+
+POST {{host}}/dinner
+Content-Type: application/json
